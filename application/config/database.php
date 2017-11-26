@@ -21,7 +21,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |	['database'] The name of the database you want to connect to
 |	['dbdriver'] The database driver. e.g.: mysqli.
 |			Currently supported:
-
 |				 cubrid, ibase, mssql, mysql, mysqli, oci8,
 |				 odbc, pdo, postgre, sqlite, sqlite3, sqlsrv
 |	['dbprefix'] You can add an optional prefix, which will be added
@@ -77,9 +76,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => '',
+	'username' => 'root',
 	'password' => '',
-	'database' => '',
+	'database' => 'qinventiva',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

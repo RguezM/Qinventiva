@@ -9,7 +9,7 @@
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(assets/images/slider/bg1.jpg)">
+                <div class="item active" style="background-image: url(images/slider/bg1.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -22,7 +22,7 @@
 
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
-                                    <img src="assets/images/slider/img1.png" class="img-responsive">
+                                    <img src="images/slider/img1.png" class="img-responsive">
                                 </div>
                             </div>
 
@@ -30,7 +30,7 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(assets/images/slider/bg2.jpg)">
+                <div class="item" style="background-image: url(images/slider/bg2.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -43,7 +43,7 @@
 
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
-                                    <img src="assets/images/slider/img2.png" class="img-responsive">
+                                    <img src="images/slider/img2.png" class="img-responsive">
                                 </div>
                             </div>
 
@@ -51,7 +51,7 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(assets/images/slider/bg3.jpg)">
+                <div class="item" style="background-image: url(images/slider/bg3.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -63,7 +63,7 @@
                             </div>
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
-                                    <img src="assets/images/slider/img3.png" class="img-responsive">
+                                    <img src="images/slider/img3.png" class="img-responsive">
                                 </div>
                             </div>
                         </div>
